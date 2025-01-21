@@ -1,5 +1,5 @@
 {
-  "name": "tocamelcase",
+  "name": "transformtocamelcase",
   "version": "1.0.0",
   "description": "Transform text into CamelCase",
   "main": "index.js",
