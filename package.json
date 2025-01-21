@@ -1,0 +1,16 @@
+{
+  "name": "tocamelcase",
+  "version": "1.0.0",
+  "description": "Transform text into CamelCase",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "camelcase",
+    "text",
+    "utility"
+  ],
+  "author": "davidFCDev",
+  "license": "MIT"
+}
